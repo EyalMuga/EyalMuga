@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/EyalMuga](https://github.com/EyalMuga)
+- 👨‍💻 All of my projects are available at [https://github.com/EyalMuga?tab=repositories)
 
 - 📫 How to reach me **eyalmuga@gmail.com**
 
