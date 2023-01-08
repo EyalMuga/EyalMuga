@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eyal Mogenshtein</h1>
 <h3 align="center">A passionate Full Stack Student from Israel</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning  **FullStack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EyalMuga?tab=repositories)
 
