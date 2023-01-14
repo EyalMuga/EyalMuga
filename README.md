@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on open source project **PyAlgoTrade**
 
-- 👨‍💻 All of my projects are available at [https://github.com/EyalMuga?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/EyalMuga?tab=repositories
 
 - 📫 How to reach me **eyalmuga@gmail.com**
 
