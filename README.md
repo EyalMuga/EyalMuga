@@ -1,7 +1,7 @@
 <h1 align="center">Eyal Mogenshtein</h1>
 <h3 align="center">Full Stack Developer from Israel</h3>
 
-- 🌱 I’m currently working on my open source project **WhatsAPP*
+- 🌱 I’m currently working on my open source project **WhatsApp**
 
 - 👨‍💻 All of my projects are available at https://github.com/EyalMuga?tab=repositories
 
