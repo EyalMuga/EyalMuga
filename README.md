@@ -91,6 +91,7 @@
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eyalmuga&show_icons=true" />
    </picture>
 </p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyalMuga"/></p>
 	
                                                                                                                     
 <p align="center"> 
