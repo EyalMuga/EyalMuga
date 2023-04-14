@@ -19,7 +19,7 @@
  
 <div>&nbsp</div>
 	   
-- 🌱 I’m currently working on my open source project **JSON Visualizer**
+- 🌱 I’m currently working on my web application "XYZ"
 - 👨‍💻 All of my projects are available at https://github.com/EyalMuga?tab=repositories
 
 
